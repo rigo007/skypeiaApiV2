@@ -1,0 +1,25 @@
+{
+  "profile": [
+    {
+      "firstName": "Vishal",
+      "lastName": "Verma",
+      "password": "12345",
+      "email": "vishal@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Roronoa",
+      "lastName": "Zoro",
+      "password": "12345",
+      "email": "zoro@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Tony",
+      "lastName": "Chopper",
+      "password": "12345",
+      "email": "tony@gmail.com",
+      "id": 2
+    },
+    ]
+}
